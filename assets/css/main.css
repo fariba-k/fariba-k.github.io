@@ -2896,7 +2896,7 @@ $timeline-events-no:                5;
 $timeline-events-line-height:       8px;
 $timeline-years-no:                 8;
 
-body {
+/* body {
 	font-family: sans-serif;
 	margin: 0;
 	padding: 0;
@@ -2913,7 +2913,7 @@ h1 {
 	font-weight: normal;
 	font-size: 28px;
 	text-transform: uppercase;
-}
+} */
 
 /* Timeline - Years */
 .timelines-years {
