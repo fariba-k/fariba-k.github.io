@@ -3,9 +3,17 @@ https://uicookies.com/css-timeline/
 -----------------------------------------------------------------------------------------
 HTML
 
-<h1>Timeline</h1>
+
+
 <ul class="timeline-events">
-	<li class="timeline-event-years-2-4">
+	  <li class="timeline-event-years-2-4 timeline-event-legend">
+<!--     <span>
+			<i></i>
+			<h2>GRADUATION</h2>
+			<h3>Sharif University of Technology</h3>
+			<h4>BSc Applied Mathematics</h4>		
+		</span> -->
+		<i></i>
 	</li>
   <li class="timeline-event-years-1-4">
 		<h2>May 2015</h2>
@@ -27,10 +35,14 @@ HTML
 		<h3>Atos</h3>
 		<h4>R&D Intern</h4>
 	</li>
-  <li class="timeline-event-years-0-3">
-<!--     <h2>Graduation</h2>
-		<h5>University of Texas at Arlington</h5>
-		<h4>MSc Computer Scince</h4>	 -->
+  <li class="timeline-event-years-0-3 timeline-event-legend">
+<!--     <span>
+			<i></i>
+			<h2>GRADUATION</h2>
+			<h3>University of Texas at Arlington</h3>
+			<h4>MSc Computer Science</h4>		
+		</span> -->
+		<i></i>
 	</li>
   
 	<li class="timeline-event-years-2">
@@ -64,8 +76,8 @@ CSS
 
 // Variables
 // ----------------------------------------------
-$grid-background-color:             #fff;
-$grid-line-color:                   #e5e5e5;
+$grid-background-color:             #f5fafa;
+$grid-line-color:                   #f5fafa;
 $grid-width:                        100px;
 $timeline-events-no:                6;
 $timeline-events-line-height:       8px;
@@ -143,11 +155,7 @@ h1 {
 	color: #222629;
 	font-style: italic;
 }
-.timeline-events h5 {
-	position: absolute;
-  top:47px;
-  right: -340px;
-}
+
 .timeline-events li {
 	position: relative;
 	display: inline-block;
@@ -288,7 +296,7 @@ h1 {
 }
 .timeline-event-legend span {
 	position: absolute;
-	bottom: -150px;
+	bottom: -300px;
 	right: -450px;
 }
 .timeline-event-legend h2,
