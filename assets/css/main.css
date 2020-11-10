@@ -2008,14 +2008,14 @@ input, select, textarea {
 		}
 
 		.image.avatar48 {
-			width: 70px;
-			height: 70px;
+			width: 100px;
+			height: 100px;
 			background: #f00;
 		}
 
 			.image.avatar48 img {
-				width: 70px;
-				height: 70px;
+				width: 100px;
+				height: 100px;
 			}
 
 		.image.fit {
