@@ -8,18 +8,33 @@
 
 
 <url>
-  <loc>https://mahdishirvin.github.io/</loc>
-  <lastmod>2020-07-18T20:57:53+00:00</lastmod>
+  <loc>https://fariba-k.github.io/</loc>
+  <lastmod>2020-11-27T20:23:55+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://mahdishirvin.github.io/images/CV_Mahdi_Shirvin.pdf</loc>
-  <lastmod>2020-07-18T20:57:53+00:00</lastmod>
+  <loc>https://fariba-k.github.io/files/CV_Fariba_Khoshghalbvash.pdf</loc>
+  <lastmod>2020-11-27T20:23:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://mahdishirvin.github.io/NetworkApple.github.io/</loc>
-  <lastmod>2020-07-16T00:45:47+00:00</lastmod>
+  <loc>https://fariba-k.github.io/files/sql.pdf</loc>
+  <lastmod>2020-11-27T20:23:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fariba-k.github.io/files/Statistic.pdf</loc>
+  <lastmod>2020-11-27T20:23:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fariba-k.github.io/files/Tableau.pdf</loc>
+  <lastmod>2020-11-27T20:23:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fariba-k.github.io/files/Data.pdf</loc>
+  <lastmod>2020-11-27T20:23:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
